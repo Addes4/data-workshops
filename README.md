@@ -1,4 +1,4 @@
-# Data Workshops at KTH
+# Data Workshops
 
 This is the official repository for the data workshops created by [Harald Lindblom](https://www.linkedin.com/in/harald-lindblom-0b1836135/) and [Frederik Spang](https://www.linkedin.com/in/frederik-spang-21234b209/) at KTH. Many thanks to [KTH AI Society](https://kthais.com/) for giving us the opportunity to realize these workshops.
 
